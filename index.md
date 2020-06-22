@@ -11,3 +11,7 @@ Schlumpfine ist die allerschönste.
 * reich
 * empathisch
 * blau
+
+Schlumpfine sagt:
+>Ich liebe Blaubeeren
+>Ich hasse Spinat
